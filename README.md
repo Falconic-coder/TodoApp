@@ -12,7 +12,6 @@ A responsive to-do app built with React + Tailwind CSS (frontend) and Express + 
 ## Setup
 
 ```bash
-cd frontend
 npm i
 node server.js
 npm run dev
